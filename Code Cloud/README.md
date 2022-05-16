@@ -1,5 +1,5 @@
 # Final Capstone
 
-This directory contains all of the starter projects for the final capstone. The Vue starter project works with both the Java and .NET backend projects with a single configuration update that you can read about in the README.
+A code catalog web app developed with a MSSQL database, a C#/ASP.NET server and a Vue.js web client app. 
 
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+Users are able to register, log in, upload code examples, tag them with relevant information, set examples to public display, search the public example dataset, and download or copy the code from an example. In addition, administrators are able to confirm user submissions to the public example dataset.
